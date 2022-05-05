@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ <img src="https://komarev.com/ghpvc/?username=alvarezpongo&label=Profile%20views&color=0e75b6&style=flat" alt="alvarezpongo" />
+
 
 [![Linkedin](https://img.shields.io/badge/-AlejandroAlvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvarezpongo/)](https://www.linkedin.com/in/alvarezpongo/)
 
