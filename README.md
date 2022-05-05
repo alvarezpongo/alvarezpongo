@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **alvarezpongo/alvarezpongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Linkedin](https://img.shields.io/badge/-AlejandroAlvarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvarezpongo/)](https://www.linkedin.com/in/alvarezpongo/)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=alvarezpongo&show_icons=true)
