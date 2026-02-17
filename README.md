@@ -70,21 +70,9 @@
 
 ## 📊 GitHub statistics
 
-<p align="center">
-  <!-- Main stats card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=alvarezpongo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    alt="GitHub stats" 
-  />
-</p>
-
-<p align="center">
-  <!-- Top languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezpongo&layout=compact&langs_count=10&theme=tokyonight"
-    alt="Top languages"
-  />
-</p>
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvarezpongo&theme=tokyonight)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alvarezpongo&theme=tokyonight)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alvarezpongo&theme=tokyonight)
 
 ---
 
