@@ -73,23 +73,15 @@
 <p align="center">
   <!-- Main stats card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=alvarezpongo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
     alt="GitHub stats" 
-  />
-</p>
-
-<p align="center">
-  <!-- Streak stats -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=false"
-    alt="GitHub streak"
   />
 </p>
 
 <p align="center">
   <!-- Top languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezpongo&layout=compact&langs_count=10&theme=tokyonight"
     alt="Top languages"
   />
 </p>
