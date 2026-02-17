@@ -1,10 +1,10 @@
 <!-- Title & Hero -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Software Engineer • AI Agents • Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Alejandro Alvarez</h1>
+<h3 align="center">Senior Software Engineer • AI Agents • Backend Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/alvarezpongo">
+    <img src="https://komarev.com/ghpvc/?username=alvarezpongo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -15,8 +15,7 @@
 - 🔭 I’m working on **AI agents and multi-database tools (LangGraph + LangChain)**
 - 💻 Main stack: **Python, Node.js, PHP**
 - 🧠 Focused on **LLM orchestration, agents, and backend APIs**
-- 📫 How to reach me: **your.email@example.com**
-- 🌐 Portfolio / App: [https://your-portfolio-or-app.com](https://your-portfolio-or-app.com)
+- 📫 How to reach me: **alvarezpongo@gmail.com**
 
 ---
 
@@ -96,26 +95,10 @@
 
 ---
 
-## 🧩 Featured projects
-
-| Project | Description | Tech |
-| ------ | ----------- | ---- |
-| [Project 1](https://github.com/yourusername/project-1) | Short summary of what it does. | Python, FastAPI, LangGraph |
-| [Project 2](https://github.com/yourusername/project-2) | Short summary of what it does. | Node.js, Express, MongoDB |
-| [Project 3](https://github.com/yourusername/project-3) | Short summary of what it does. | PHP, MySQL |
-
----
-
 ## 🤝 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/alvarezpongo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
